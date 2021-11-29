@@ -1,3 +1,4 @@
 export const environment = {
-    apiurl: 'https://technonix-txwms-backend.herokuapp.com'
+    apiurl: 'https://wmsold-server.herokuapp.com'
+    // apiurl:' https://tx-wms-app.herokuapp.com'
   };

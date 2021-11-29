@@ -4796,7 +4796,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
 
 const environment = {
-    apiurl: 'https://technonix-txwms-backend.herokuapp.com'
+    apiurl: 'https://wmsold-server.herokuapp.com'
+    // apiurl:' https://tx-wms-app.herokuapp.com'
 };
 
 

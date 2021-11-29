@@ -4532,7 +4532,8 @@
             /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "environment", function () { return environment; });
             /* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
             var environment = {
-                apiurl: 'https://technonix-txwms-backend.herokuapp.com'
+                apiurl: 'https://wmsold-server.herokuapp.com'
+                // apiurl:' https://tx-wms-app.herokuapp.com'
             };
             /***/ 
         }),
