@@ -10,6 +10,7 @@ import { ToastrService } from 'ngx-toastr';
 })
 export class DivitionComponent implements OnInit {
   selected:any;
+  sel:any;
   filtered :any;
   filterValue:any;
   filterValuee:any;
